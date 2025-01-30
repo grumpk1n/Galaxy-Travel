@@ -6,6 +6,8 @@ Map created by https://www.deviantart.com/86botond/art/Star-Wars-Map-of-the-Gala
 
 Astrogation Computer was created with the following custom rules for a Star Wars RPG (Fantasy Flight Games) game but could adopted to any system.
 
+![image](https://github.com/user-attachments/assets/29fbdb3d-f171-46ac-87e9-cec97218d512)
+
 Current Logic:
 
 Difficulty for astrogation is defined as:
