@@ -1,15 +1,37 @@
 # Galaxy-Travel
-Astrogation Computer Module for use in Foundry VTT
+Astrogation Computer Module for use with Star Wars FFG system in Foundry VTT
 
-Intended for use in Foundry VTT.  System Agnostic, though it was created leveraging a very specific map (to provide coordiante locations).
+Intended for use in Foundry VTT.  Designed for use with the Star Wars FFG System, though could be system agnostic with modifications. 
+
+Created with specific map: All locations and coordinates are mapped to this map.
 Map created by https://www.deviantart.com/86botond/art/Star-Wars-Map-of-the-Galaxy-1147391245
 
 Astrogation Computer was created with the following custom rules for a Star Wars RPG (Fantasy Flight Games) game but could adopted to any system.
 
 ![image](https://github.com/user-attachments/assets/29fbdb3d-f171-46ac-87e9-cec97218d512)
 
-Current Logic:
+Use:
+Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
+You can also share the jump calculation with others via "Share" button in header.
 
+To begin:
+Enter your Start/Destination Planet (type or dropdown search)
+Enter your Ship Hyperdrive Rating
+
+Modifiers:
+Select any applicable modifiers for your situation
+
+Nav Computer/Astromech Droid (checked by default) - If unchecked upgrades difficulty by two.
+Emergency "Quick" Calculation - Reduces the calculation time by 3 rounds but upgrades the difficulty by one.
+Ship is Lightly Damaged - Increases setback dice by one.
+Ship is Heavily Damaged - Increases setback dice by two.
+Hyperdrive Malfunctioning or Damaged - Upgrades difficulty by one.
+Take Additional Time to Calculate - Increases the calculation time by 5 rounds but lowers the difficulty by one. 
+Take non-Optimal Route - Upgrades difficulty by one.  This also will plot a path without hyperspace lanes, which will make the trip take longer.
+
+When ready click "Calculate Travel" and you're off.  Results should output to chat as well, for a record.
+
+Current Logic Explanation/Definition:
 Difficulty for astrogation is defined as:
 Destination is in the Deep Core Worlds = 3 dd
 Destination is in the Core Worlds = 2 dd
