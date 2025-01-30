@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Galaxy Travel</title>
+  </head>
+  <body>
+    <div id="galaxy-travel">
+      <h1>Astrogation Computer</h1>
+      <form>
+        <div>
+          <label for="start-planet">Start Planet:</label>
+          <input id="start-planet" type="text" placeholder="Search Start Planet..." list="start-planet-list">
+          <datalist id="start-planet-list">
+            {{#each planets}}
+              <option value="{{this.name}}">{{this.name}} ({{this.region}})</option>
+            {{/each}}
+          </datalist>
+        </div>
+
+        <div>
+          <label for="destination-planet">Destination Planet:</label>
+          <input id="destination-planet" type="text" placeholder="Search Destination Planet..." list="destination-planet-list">
+          <datalist id="destination-planet-list">
+            {{#each planets}}
+              <option value="{{this.name}}">{{this.name}} ({{this.region}})</option>
+            {{/each}}
+          </datalist>
+        </div>
+
+        <div>
+          <label for="ship-speed">Ship Hyperdrive Rating:</label>
+          <input id="ship-speed" type="number" step="0.1" min="0.1" placeholder="Enter hyperdrive rating...">
+        </div>
+
+		<div id="astrogation-modifiers">
+<div id="astrogation-modifiers">
+  <h3>Astrogation Modifiers</h3>
+  <div>
+    <label><input type="checkbox" id="nav-computer" checked> Nav Computer / Astromech Droid</label>
+  </div>
+  <!-- Remove these checkboxes -->
+  <!--
+  <div>
+    <label><input type="checkbox" id="major-route"> Major Hyperspace Lane</label>
+  </div>
+  <div>
+    <label><input type="checkbox" id="minor-route"> Minor Hyperspace Lane</label>
+  </div>
+  -->
+  <div>
+    <label><input type="checkbox" id="quick-calc"> Emergency Quick Calculations (-3 Rounds)</label>
+  </div>
+  <div>
+  <label><input type="checkbox" id="extra-time"> Take Additional Time (+5 Rounds, -1dd min 1)</label>
+</div>
+  <div>
+    <label><input type="checkbox" id="light-damage"> Ship Lightly Damaged</label>
+  </div>
+  <div>
+    <label><input type="checkbox" id="heavy-damage"> Ship Heavily Damaged</label>
+  </div>
+  <div>
+    <label><input type="checkbox" id="hyperdrive-malfunction"> Hyperdrive Malfunctioning/Damaged</label>
+  </div>
+  <div>
+    <label><input type="checkbox" id="non-optimal-route"> Take Non-Optimal Route (Avoid Hyperspace Lanes)</label>
+  </div>
+</div>
+
+        <button id="calculate-travel" type="button">Calculate Travel</button>
+      </form>
+
+      <div id="travel-result">
+        <h3>Results</h3>
+        <p><strong>Optimal Route:</strong> <span id="optimal-route"></span></p>
+		<p><strong>Travel Time:</strong> <span id="travel-time"></span> hours</p>
+        <p><strong>Distance:</strong> <span id="travel-distance"></span> parsecs</p>
+        <p><strong>Astrogation Roll:</strong> <span id="astrogation-roll"></span></p>
+        <p><strong>Calculation Time:</strong> <span id="calculation-time"></span> round(s)</p>
+        <p><strong>Fuel Consumption:</strong> <span id="fuel-consumption"></span> fuel cells</p>
+      </div>
+    </div>
+  </body>
+</html>

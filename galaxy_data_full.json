@@ -1,0 +1,6707 @@
+{
+  "planets": [
+	  {
+		"name": "Ab Dalis",
+		"grid": "M14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Abafar",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Abednedo",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Abelor",
+		"grid": "G14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Abregado",
+		"grid": "H10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Abyss",
+		"grid": "M6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Actlyon",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Adelphi",
+		"grid": "L14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Adinax Nebula",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Aeos Prime",
+		"grid": "I3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Aeten II",
+		"grid": "F5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Af'El",
+		"grid": "N7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Agamar",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Agaris",
+		"grid": "D11",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Agoliba-Tu",
+		"grid": "H3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ahch-To",
+		"grid": "D10",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ajan Kloss",
+		"grid": "H5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Akiva",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Alamass",
+		"grid": "O7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Alderaan",
+		"grid": "I8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Aleen",
+		"grid": "H6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Allanteen VI",
+		"grid": "J11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Almagest",
+		"grid": "F11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Aloxor",
+		"grid": "M9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Alpinn",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Alsakan",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Alzoc III",
+		"grid": "L15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Amaxine Space Station",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ambria",
+		"grid": "K8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Anaxes",
+		"grid": "M6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Andelm IV",
+		"grid": "J16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ando",
+		"grid": "L13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Anison",
+		"grid": "F5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ankhural",
+		"grid": "M7",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Anoat",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ansett",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Antar 4",
+		"grid": "J9",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Anthan",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Anzat",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Anzell",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Aq Ventina",
+		"grid": "H4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Aquaris",
+		"grid": "J6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Aralia",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Arbiflux",
+		"grid": "H2",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Arbra",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Archeon Nebula",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ardennia",
+		"grid": "G5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Aridus",
+		"grid": "K11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Arkani",
+		"grid": "I7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Arkanis",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Arkax Station",
+		"grid": "I12",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Artiod Minor",
+		"grid": "N3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Arvaka Prime",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Arvala-7",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Arvina",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ashas Ree",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Askajai",
+		"grid": "I17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Askkto-Fen",
+		"grid": "L16",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Asusto",
+		"grid": "K4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Atollon",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Atravis",
+		"grid": "H16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Attera",
+		"grid": "J3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Avedot",
+		"grid": "H7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Axxila",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Azum",
+		"grid": "H12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Azzameen Station",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bakura",
+		"grid": "D13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Balmorra",
+		"grid": "I8",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Balnab",
+		"grid": "H6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Balosar",
+		"grid": "H10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Banchii",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bandomeer",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Baraan-Fa",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Barab",
+		"grid": "O10",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Barabesh",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Barbadel",
+		"grid": "H10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Bardotta",
+		"grid": "G10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bar'Leth",
+		"grid": "I8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Barnahof",
+		"grid": "N11",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Bastatha",
+		"grid": "J8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Basteel",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Bastion",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Batuu",
+		"grid": "E12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Batuv",
+		"grid": "K9",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Begamor",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Belderone",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Belladoon",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Beltire",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Benath",
+		"grid": "F6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Berzite",
+		"grid": "O6",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Bescane",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bespin",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bestine",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bilbringi",
+		"grid": "G7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bimmisaari",
+		"grid": "M7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Birren",
+		"grid": "J8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Birren",
+		"grid": "K8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bith (Clak'Dor)",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Black Stall Staion",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Blutopia",
+		"grid": "H13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bogano",
+		"grid": "J3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Bogden",
+		"grid": "I6",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bonadan",
+		"grid": "M3",
+		"sector": "Corporate sector",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Boomis Koori",
+		"grid": "G13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Boonta",
+		"grid": "N7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Boosodia",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Borleias",
+		"grid": "G7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Borosk",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Botajef",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bothawui",
+		"grid": "M11",
+		"sector": "Bothan Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Botor",
+		"grid": "H10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Boz Pity",
+		"grid": "M7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Bracca",
+		"grid": "K7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Bravais",
+		"grid": "K7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Brentaal",
+		"grid": "H7",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Brentaal",
+		"grid": "H7",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Britaxis Minor",
+		"grid": "J9",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Byblos",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Byss",
+		"grid": "G9",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cabarria",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cadomai",
+		"grid": "M3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cal-Seti",
+		"grid": "G8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Calumdarian",
+		"grid": "H6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Candovant",
+		"grid": "J10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cantonica",
+		"grid": "M3",
+		"sector": "Corporate sector",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Caphexdis",
+		"grid": "I6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cardovyte",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Carida",
+		"grid": "I7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Carlac",
+		"grid": "G5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Castell",
+		"grid": "I7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Castilon",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cato Nemoidia",
+		"grid": "I9",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Celanon",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Celsor",
+		"grid": "K14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Centares",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Centori",
+		"grid": "K13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cerberon",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cerea",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cermau",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chaaktil",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Chad",
+		"grid": "M6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Chadawa",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Chagar",
+		"grid": "K15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chalacta",
+		"grid": "M8",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Champala",
+		"grid": "H7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chanar's Folly",
+		"grid": "F17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Chanceuxi",
+		"grid": "J3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chandrila",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chardaan",
+		"grid": "J11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Charissia",
+		"grid": "H12",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Charros IV",
+		"grid": "M7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chibbier",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cholganna",
+		"grid": "N4",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Chrely Thiumn",
+		"grid": "G2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Christophsis",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chroman",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chrome Citadel",
+		"grid": "K9",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Chyron",
+		"grid": "G13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Circumtore",
+		"grid": "M10",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ciutric",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Coachelle",
+		"grid": "L8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Codia",
+		"grid": "E12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Colla IV",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Commenhor",
+		"grid": "J9",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cona",
+		"grid": "J9",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Contruum",
+		"grid": "K7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Corellia",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Corulag",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Coruscant",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Corvus",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cosia",
+		"grid": "I9",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cosmatanic Steppes",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Couronne",
+		"grid": "K8",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Crait",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Croce",
+		"grid": "N11",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Crucival",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Crul",
+		"grid": "M11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Crushank Nebula",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cuyacan",
+		"grid": "K10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cyborrea",
+		"grid": "N7",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cyclorria",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cyclorria",
+		"grid": "J14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cymoon",
+		"grid": "H12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cyphar",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Cyrillia",
+		"grid": "K10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Cyrkon",
+		"grid": "N10",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Daalang",
+		"grid": "L10",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dagobah",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dalna",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dandoran",
+		"grid": "M8",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dannamore",
+		"grid": "G16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dantooine",
+		"grid": "H3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Danzik",
+		"grid": "I2",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Daro",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dassal",
+		"grid": "E6",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dathomir",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Daxam IV",
+		"grid": "J15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Del Zennis",
+		"grid": "L6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Delphidian Cluster",
+		"grid": "E12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Demiloch",
+		"grid": "M10",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Demir",
+		"grid": "D5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Denab",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dene Gois Cluster",
+		"grid": "N11",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Denon",
+		"grid": "J10",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Derra IV",
+		"grid": "I12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Desevro",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Devaron",
+		"grid": "I11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Deymasoll",
+		"grid": "G10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dhandu",
+		"grid": "F7",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Didyma",
+		"grid": "F5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dinwa Prime",
+		"grid": "H7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dor Nameth",
+		"grid": "H6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dorin",
+		"grid": "G6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dotharian",
+		"grid": "N10",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dowut",
+		"grid": "G10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "D'Qar",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Dragon Void",
+		"grid": "G11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Drahgor",
+		"grid": "N4",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dressel",
+		"grid": "L11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Druckenwell",
+		"grid": "K12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dubrillion",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dulathia",
+		"grid": "K7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Durkteel",
+		"grid": "L8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Duro",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Dybrin",
+		"grid": "H9",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Eadu",
+		"grid": "O8",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Eiram",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Elessia",
+		"grid": "L13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Elom",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Elphrona",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Elrood",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Empress Teta",
+		"grid": "H8",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Endor",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Enrivi",
+		"grid": "M7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Entralla",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Entropian Hive",
+		"grid": "G14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ephemera",
+		"grid": "F11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Eriadu",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Er'Kit",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "E'Ronoh",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Espinar",
+		"grid": "G7",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Espirion",
+		"grid": "J10",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Exodeen",
+		"grid": "I9",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Falleen",
+		"grid": "L12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Farana",
+		"grid": "N3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Farstine",
+		"grid": "K13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Fedalle",
+		"grid": "I8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Fedovoi End",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Felucia",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ferrix",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Fex",
+		"grid": "H9",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Five Points",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Florn",
+		"grid": "N4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Florrum",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Fondor",
+		"grid": "H11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Formos",
+		"grid": "O8",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Fornax",
+		"grid": "G6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Foundry",
+		"grid": "I8",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gad",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Galaan",
+		"grid": "K3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Galgagolos V",
+		"grid": "G7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Galidraan",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Gallus",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Gamor",
+		"grid": "K11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gamorr",
+		"grid": "O11",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gand",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ganthel",
+		"grid": "H7",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Garel",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Garqui",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gatalenta",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gavriza",
+		"grid": "J6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Geonosis",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ghorman",
+		"grid": "H11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gigor",
+		"grid": "M3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Giju",
+		"grid": "H11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gizer",
+		"grid": "K7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Glee Anselm",
+		"grid": "F6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gonda",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gorobei",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Gorse",
+		"grid": "J8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Grange",
+		"grid": "L9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Grava",
+		"grid": "G17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gravlex Med",
+		"grid": "H3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Great Forveen Nebula",
+		"grid": "F5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Griq",
+		"grid": "E6",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Grizal",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Guagenia",
+		"grid": "G11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Guat'A",
+		"grid": "K15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Gwongdeen",
+		"grid": "F7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Gyndine",
+		"grid": "J9",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Haidoral Prime",
+		"grid": "M8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Halais",
+		"grid": "I8",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hapes",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Harkrova",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hartaga",
+		"grid": "G6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Haruun Kal",
+		"grid": "I14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hasskyn",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Havoc Outpost",
+		"grid": "N15",
+		"sector": "",
+		"region": "Unkown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hebekar",
+		"grid": "J6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hetzal",
+		"grid": "L13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hetzal",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Heva",
+		"grid": "N13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hevurion",
+		"grid": "H7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hisseen",
+		"grid": "M12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hissrich",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "H'nemthe",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hok",
+		"grid": "I7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hollastin",
+		"grid": "N10",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Honoghr",
+		"grid": "N8",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Horox",
+		"grid": "I4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hosnian Prime",
+		"grid": "I10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hoth",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hovun IV",
+		"grid": "K10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Huk",
+		"grid": "F3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Humbarine",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Hyborea",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hylobi",
+		"grid": "L7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hynestia Prime",
+		"grid": "G11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Hypori",
+		"grid": "N13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Iakar",
+		"grid": "J16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ibaar",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Icindra",
+		"grid": "O5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Idaflor",
+		"grid": "K15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Iego",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ikkrukk",
+		"grid": "K14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Iktotch",
+		"grid": "J11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Iloh",
+		"grid": "J8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ilum",
+		"grid": "E6",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Imroosia",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Imynusoph",
+		"grid": "G17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Iridonia",
+		"grid": "G6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Irudiru",
+		"grid": "N4",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Isde Naha",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Isobe",
+		"grid": "J6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ithor",
+		"grid": "I5",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ivarujar",
+		"grid": "G13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ivexia",
+		"grid": "L6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "I'vorcia",
+		"grid": "J3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jabim",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jaemus",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Jakku",
+		"grid": "F10",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jalindi",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jarbanov",
+		"grid": "K9",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jaresh",
+		"grid": "K3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jedha",
+		"grid": "E8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jekara",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Jelucan",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Jeosyn",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kaddak",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kakra",
+		"grid": "F12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kalabra",
+		"grid": "K12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kalee",
+		"grid": "F3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kalevalaa",
+		"grid": "K6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kaliida Nebula",
+		"grid": "K14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kalist VI",
+		"grid": "H9",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kaller",
+		"grid": "H4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kal'Shebbol",
+		"grid": "I17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kamino",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kardoa",
+		"grid": "H4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Karfeddion",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Karkaris",
+		"grid": "N4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Karnac",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Karthon",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kartoosh",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kashyyk",
+		"grid": "K8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kef Bir",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Keitum",
+		"grid": "F5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kelada",
+		"grid": "I11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kellgar",
+		"grid": "J3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kerest",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kerev Doi",
+		"grid": "J10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kerkoidia",
+		"grid": "J12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kessel",
+		"grid": "N8",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Keteeria",
+		"grid": "K6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Khomm",
+		"grid": "H10",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kijimi",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Killun 71",
+		"grid": "O5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kintan",
+		"grid": "N7",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kinyen",
+		"grid": "H13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kira",
+		"grid": "J13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kirdo",
+		"grid": "J15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kirima",
+		"grid": "G14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kitel Phard",
+		"grid": "G10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Klatooine",
+		"grid": "N7",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Klytus",
+		"grid": "E12",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Koda Station",
+		"grid": "E14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kol Iben",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kolkur",
+		"grid": "N4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kooriva",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Korbori",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Korrus",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kowak",
+		"grid": "N13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kril'Dor",
+		"grid": "F6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kriselist",
+		"grid": "G13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Krownest",
+		"grid": "J6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ktath'Atn",
+		"grid": "I3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kuat",
+		"grid": "I8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kubindi",
+		"grid": "O7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kudo",
+		"grid": "G12",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kuliquo Belt",
+		"grid": "H11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kullgroon",
+		"grid": "K10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kupoh",
+		"grid": "M11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Kur Nebula",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Kwenn",
+		"grid": "M8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lafete",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Lah'mu",
+		"grid": "H3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Lannik",
+		"grid": "M10",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lantillies",
+		"grid": "K7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lanz Carpo",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lasan",
+		"grid": "K16",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ledeve",
+		"grid": "F6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Leritor",
+		"grid": "L12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lespectus",
+		"grid": "I8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lew'El",
+		"grid": "F3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Lianna",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lira San",
+		"grid": "K17",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Li-Toran",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Livno",
+		"grid": "G17",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Llanic",
+		"grid": "L13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lokud",
+		"grid": "H3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lola Sayu",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Longera",
+		"grid": "J9",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Loronar",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lorrd",
+		"grid": "J3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Lorta",
+		"grid": "G14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lothal",
+		"grid": "O5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Lotho Minor",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lowick",
+		"grid": "O7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Lutrillia",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Lysatra",
+		"grid": "F7",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Maher",
+		"grid": "D6",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mahranee",
+		"grid": "L7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Maires",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mako-Ta",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Malachor",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Malastare",
+		"grid": "I13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Maldo Kreis",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Manaan",
+		"grid": "J9",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Manda",
+		"grid": "M12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mandalore",
+		"grid": "K6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Manpha",
+		"grid": "G16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mapuzo",
+		"grid": "H5",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mardona III",
+		"grid": "J10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Maridun",
+		"grid": "L5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Marleyvane",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Marquinn",
+		"grid": "G7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Maryx Minor",
+		"grid": "K16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mefti",
+		"grid": "H7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Megalox Beta",
+		"grid": "H12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Merj",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Merokia",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mikkia",
+		"grid": "I6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Milagro",
+		"grid": "K11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mileva",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Milvayne",
+		"grid": "H7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mimban",
+		"grid": "K9",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mindor",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Minfar",
+		"grid": "F11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Minos Cluster",
+		"grid": "I17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mirial",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mirin Prime",
+		"grid": "K4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mohsenia",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mokivj",
+		"grid": "D13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Molavar",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mol'Leaj",
+		"grid": "K11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mon Cala",
+		"grid": "O5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mon Gazza",
+		"grid": "L13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Monsua Nebula",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Montross",
+		"grid": "K7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mooga",
+		"grid": "L6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Moonus Mandel",
+		"grid": "M11",
+		"sector": "Bothan Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Morak",
+		"grid": "E15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Moraysi",
+		"grid": "L15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Morband",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Morlana One",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mortis",
+		"grid": "G2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Msula",
+		"grid": "I13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mulita",
+		"grid": "E15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Munt Ontdal",
+		"grid": "L11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Murkhana",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mustafar",
+		"grid": "H16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Muunilinst",
+		"grid": "G3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mygeeto",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Mykapo",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Mytus",
+		"grid": "M2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Naalol",
+		"grid": "H13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Naboo",
+		"grid": "J13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nacon",
+		"grid": "H8",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nacronis",
+		"grid": "I6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Nadiri",
+		"grid": "H7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nag Ubdur",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Najan-Rovi",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nakadia",
+		"grid": "I12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nal Hutta",
+		"grid": "M9",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nanth'Ri",
+		"grid": "L9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nantoon",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nar Haska",
+		"grid": "O9",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Nar Kaaga",
+		"grid": "M10",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nar Kanji",
+		"grid": "M8",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Naraka",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Narq",
+		"grid": "I9",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Necropolis",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Neijaia",
+		"grid": "J12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Nemoidia",
+		"grid": "I8",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nepotis",
+		"grid": "N7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Netalych",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Nevarro",
+		"grid": "G16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Nexus Ortai",
+		"grid": "L11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nimban",
+		"grid": "M8",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nithorni",
+		"grid": "G7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Nixus",
+		"grid": "K15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nkllon",
+		"grid": "H13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Noctu",
+		"grid": "G10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Noe'Ha'On",
+		"grid": "G13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nora",
+		"grid": "F6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Novka",
+		"grid": "M12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nubia",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Numidian Prime",
+		"grid": "H6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Nur",
+		"grid": "H16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "N'Zoth",
+		"grid": "G8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Oba Diah",
+		"grid": "O8",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Obroa-Skai",
+		"grid": "J6",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Obumubo",
+		"grid": "H10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Octero",
+		"grid": "L15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Odona",
+		"grid": "L14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Oetchi",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ogem",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ojom",
+		"grid": "I9",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Omereth",
+		"grid": "O10",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Onderon",
+		"grid": "K8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Onod",
+		"grid": "G14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Oosalon",
+		"grid": "O9",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ord Cestus",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ord Mantell",
+		"grid": "H6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ord Radama",
+		"grid": "L4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ord Trasi",
+		"grid": "H4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Orinda",
+		"grid": "H5",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Orish",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Orto",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Oru",
+		"grid": "H2",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Oseon",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Osseriton",
+		"grid": "D7",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ossus",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Otomok",
+		"grid": "G5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Otor's Hub",
+		"grid": "J6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Oulanne",
+		"grid": "H11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ovanis",
+		"grid": "D13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Pacara",
+		"grid": "F12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pagodon",
+		"grid": "M14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Palanhi",
+		"grid": "G7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Pamarthe",
+		"grid": "J15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Pam'Ba",
+		"grid": "E12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pandem Nai",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Panna",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pantolomin",
+		"grid": "H7",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Parnassos",
+		"grid": "E5",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pasaana",
+		"grid": "K10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pasher",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pastoria",
+		"grid": "K14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Patrolia",
+		"grid": "H11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pax",
+		"grid": "J13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Persis",
+		"grid": "H12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Petrusia",
+		"grid": "K10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Phatrong",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pheryon",
+		"grid": "G7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Phindar",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Phu",
+		"grid": "G11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pijal",
+		"grid": "H7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Pipada",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Pippip 3",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Plexis",
+		"grid": "H10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ploo II",
+		"grid": "J6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Polis Massa",
+		"grid": "G17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Polyneus",
+		"grid": "F11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ponemah",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Pormthulis",
+		"grid": "J13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Pressylla",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Protobranch",
+		"grid": "G10",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Qhulosk",
+		"grid": "N7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Quarmendy",
+		"grid": "M12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Quarzite",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Quellor",
+		"grid": "J9",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Quellor",
+		"grid": "L5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Queluhan Nebula",
+		"grid": "E10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Quermia",
+		"grid": "N4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Raada",
+		"grid": "K4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Raithal",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rajtiri",
+		"grid": "K7",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rakata Prime",
+		"grid": "D9",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Randon",
+		"grid": "L8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rarlech",
+		"grid": "E4",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rattatak",
+		"grid": "E13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Raxus Prime",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Raxus Secundus",
+		"grid": "N5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Raydonia",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Recluse's Nebula",
+		"grid": "G5",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Red Nebula",
+		"grid": "D17",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Reesaria",
+		"grid": "O8",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Refnu",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rendili",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Renta Xius",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rhen Var",
+		"grid": "M5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Riflor",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rina Major",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ring of Kafrene",
+		"grid": "G12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ringo Vinda",
+		"grid": "L6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rinn",
+		"grid": "O9",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rion",
+		"grid": "N8",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rior",
+		"grid": "J15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Riosa",
+		"grid": "G6",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rishi",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rodia",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ro-Loo Triangle",
+		"grid": "K13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rorak",
+		"grid": "N9",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rothana",
+		"grid": "O12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Roxuli",
+		"grid": "F7",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "RTK111",
+		"grid": "O11",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rugosa",
+		"grid": "K14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ruuria",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ruusan",
+		"grid": "L9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Rycep AsteroidBelt",
+		"grid": "H15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ryloth",
+		"grid": "M14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Rystan",
+		"grid": "I17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sabata",
+		"grid": "M7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sailuua",
+		"grid": "N7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Saki",
+		"grid": "N9",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sakreen",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Saleucami",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Salient",
+		"grid": "M3",
+		"sector": "Corporate sector",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Samovar",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sarka",
+		"grid": "L7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sarrassia",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Savareen",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Scarif",
+		"grid": "N12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Scipio",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Seelos",
+		"grid": "L4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sembla",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sereeda Waypoint",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Serelia",
+		"grid": "G13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Serenno",
+		"grid": "K4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sergia",
+		"grid": "G12",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sernpidal",
+		"grid": "H2",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sesid",
+		"grid": "K3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sevarcos",
+		"grid": "J15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Shadda-Bi-Boran",
+		"grid": "J14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Shahkir",
+		"grid": "I11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Shantipole",
+		"grid": "L6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Shaum HII",
+		"grid": "I4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Shili",
+		"grid": "H6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Shimia",
+		"grid": "M14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sh'ung-Tesk",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Shuraden",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Shu-Torun",
+		"grid": "G6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sibensko",
+		"grid": "H12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sinta",
+		"grid": "L9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Skako",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Skaradosh",
+		"grid": "J11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Skuhl",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Skye",
+		"grid": "E16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sleheyron",
+		"grid": "N8",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sluis Van",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sneeve",
+		"grid": "L8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Socorro",
+		"grid": "L14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Solarine",
+		"grid": "M7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Son-Tuul",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sorgan",
+		"grid": "L14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ssori",
+		"grid": "N11",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Starcave Nebula",
+		"grid": "O7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Steadic",
+		"grid": "K14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Stennaros",
+		"grid": "G13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Stic",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Stobar",
+		"grid": "I12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Strokill Prime",
+		"grid": "O5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Stygeon Prime",
+		"grid": "L5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Substation Grimdock",
+		"grid": "K8",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Subterrel",
+		"grid": "H17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Sullust",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sump",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sunspot Prison",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Suntilla",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Svivren",
+		"grid": "K16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Sy Myrth",
+		"grid": "M6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Syvris",
+		"grid": "O10",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Taanab",
+		"grid": "K7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tah'Nuhna",
+		"grid": "L11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Takobo",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Takodana",
+		"grid": "F13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tal Pi",
+		"grid": "K4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Talpiddi",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tangrene",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tansyl 5",
+		"grid": "K13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Taris",
+		"grid": "J6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tarsunt",
+		"grid": "M11",
+		"sector": "Bothan Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tattooine",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Taul",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tayron",
+		"grid": "H15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tehar",
+		"grid": "F6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tenoo",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tepasi",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Terminus",
+		"grid": "G17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Teth",
+		"grid": "O9",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tevel",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Thabeska",
+		"grid": "K4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "The Inamorata",
+		"grid": "O8",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "The Wheel",
+		"grid": "M6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Thrinittik",
+		"grid": "H7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Throffdon",
+		"grid": "F7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Thune",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Thustra",
+		"grid": "J6",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Thyferra",
+		"grid": "H11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tibrin",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tiferep Major",
+		"grid": "H14",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tinnel IV",
+		"grid": "I9",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tirahnn",
+		"grid": "J7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Toola",
+		"grid": "N4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Toong'L",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tovash Tchii",
+		"grid": "K13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Toydaria",
+		"grid": "M9",
+		"sector": "Hutt Space",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Trandosha",
+		"grid": "K8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Trenchenovu",
+		"grid": "G15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Trian",
+		"grid": "M3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Triffis",
+		"grid": "K12",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Trillia",
+		"grid": "K11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Troiken",
+		"grid": "N4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Trymant",
+		"grid": "H17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tsevuk A",
+		"grid": "I5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tund",
+		"grid": "O7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Turco Prime",
+		"grid": "L7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Tureen VII",
+		"grid": "G16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tynna",
+		"grid": "J11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Typhonic Nebula",
+		"grid": "L9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Tython",
+		"grid": "H8",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Uaua",
+		"grid": "O6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Uba",
+		"grid": "G5",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ubardia",
+		"grid": "I10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ubduria",
+		"grid": "J6",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ubrikkia",
+		"grid": "L8",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ultaar",
+		"grid": "M7",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Umbara",
+		"grid": "K8",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Unox",
+		"grid": "L14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Ushruu",
+		"grid": "J10",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Utapau",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Utegetu Nebula",
+		"grid": "F6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Uvena Prime",
+		"grid": "I14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Uyter",
+		"grid": "K7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vagadarr Prime",
+		"grid": "G11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Valdo",
+		"grid": "J16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vallt",
+		"grid": "K14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vandelhelm",
+		"grid": "I12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vandor",
+		"grid": "K11",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vanqor",
+		"grid": "M4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vardos",
+		"grid": "H8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Varkana",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Varl",
+		"grid": "N9",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Varnak",
+		"grid": "L9",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vashka",
+		"grid": "L14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vassek",
+		"grid": "F14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Velmore",
+		"grid": "K6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vendaxa",
+		"grid": "J11",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vernid",
+		"grid": "I3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vespaara",
+		"grid": "M7",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vetine",
+		"grid": "H11",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vinsoth",
+		"grid": "J5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vint",
+		"grid": "N13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Virgillia",
+		"grid": "F15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Virkoi",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vjun",
+		"grid": "L5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vodran",
+		"grid": "N7",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vondarc",
+		"grid": "I13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vorlag",
+		"grid": "K15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Voxx Clu",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vrogas Vas",
+		"grid": "K16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vulpinus Nebula",
+		"grid": "G13",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Vulpter",
+		"grid": "H8",
+		"sector": "",
+		"region": "Deep Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Vurdon Ka",
+		"grid": "I7",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Wadi Raffa",
+		"grid": "I16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Warlentta",
+		"grid": "I6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Wayland",
+		"grid": "J6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Wecacoe",
+		"grid": "G11",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Werma",
+		"grid": "L3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Wick",
+		"grid": "N13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Winsit",
+		"grid": "H17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Wobani",
+		"grid": "M6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Wrea",
+		"grid": "N13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Wroona",
+		"grid": "H12",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Wynkahthu",
+		"grid": "H6",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Xa Fel",
+		"grid": "G8",
+		"sector": "",
+		"region": "Core",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Xagobah",
+		"grid": "I15",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Xala",
+		"grid": "E12",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Xirl",
+		"grid": "K16",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Yabol Opa",
+		"grid": "I7",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yaga Minor",
+		"grid": "G4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yag'Dhul",
+		"grid": "H12",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yalbec Prime",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yar Togna",
+		"grid": "K14",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yarma",
+		"grid": "N6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yavin",
+		"grid": "K5",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Yerbana",
+		"grid": "M13",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Ylesia",
+		"grid": "N9",
+		"sector": "Hutt Space",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Yuvern",
+		"grid": "I4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Yuw",
+		"grid": "L13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zanbar",
+		"grid": "J6",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Zardossa Stix",
+		"grid": "G10",
+		"sector": "",
+		"region": "Colonies",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zastiga",
+		"grid": "G17",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zavian Abyss",
+		"grid": "K8",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zeffo",
+		"grid": "I3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zeheth",
+		"grid": "I13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zeltros",
+		"grid": "K8",
+		"sector": "",
+		"region": "Inner Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zenezia",
+		"grid": "G12",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Zhadalene",
+		"grid": "J4",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "Zolan",
+		"grid": "L13",
+		"sector": "",
+		"region": "Mid Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "Zygerria",
+		"grid": "M3",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": true,
+		"hyperspace_lane_connects_to_name": true
+	  },
+	  {
+		"name": "",
+		"grid": "F16",
+		"sector": "",
+		"region": "Outer Rim",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "G1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "H1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "I1",
+		"sector": "",
+		"region": "Expansion region",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "J1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "J2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "K1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "K2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "L1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "L2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "M1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "N1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "N2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "N14",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O1",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O2",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O3",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O4",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O13",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O14",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O15",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O16",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  },
+	  {
+		"name": "",
+		"grid": "O17",
+		"sector": "",
+		"region": "Unknown regions",
+		"hyperspace_lane_in_grid": false,
+		"hyperspace_lane_connects_to_name": false
+	  }
+	],
+	"hyperspace_lanes": [
+    {
+      "name": "Hydian Way",
+      "route": ["N3", "M3", "L3", "K4", "K5", "J5", "J6", "I6", "H7", "H8", "I8", "I9", "I10", "J10", "J11", "J12", "J13", "I13", "I14", "I15", "H15", "H16", "G16", "G17"]
+    },
+	{
+	  "name": "Perlemian Trade Route",
+	  "route": ["N4", "M4", "M5", "M6", "L6", "L7", "K7", "J7", "I7", "H7", "H8", "G9"]
+	},
+	{
+	  "name": "Corellian Run",
+	  "route": ["N14", "M14", "M13", "L13", "L12", "K12", "K11", "J11", "J10", "I10", "I9", "I8", "H8", "G8"]
+	},
+	{
+	  "name": "Rimma Trade Route",
+	  "route": ["I17", "I16", "I15", "I14", "I13", "I12", "H12", "H11", "H10"]
+	},
+	{
+	  "name": "Corellian Trade Spine",
+	  "route": ["G17", "G16", "G15", "G14", "G13", "H13", "H12", "I11", "I10","I9"]
+	}
+	]
+}
+	
