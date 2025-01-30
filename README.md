@@ -11,25 +11,23 @@ Astrogation Computer was created with the following custom rules for a Star Wars
 ![image](https://github.com/user-attachments/assets/29fbdb3d-f171-46ac-87e9-cec97218d512)
 
 ## How to Use
-Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
-You can also share the jump calculation with others via "Share" button in header.
-
-### To begin:
-Enter your Start/Destination Planet (type or dropdown search)
-Enter your Ship Hyperdrive Rating
+1. Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
+2. You can also share the jump calculation with others via "Share" button in header.
+3. Enter your Start/Destination Planet (type or dropdown search)
+4. Enter your Ship Hyperdrive Rating
 
 ### Modifiers:
 Select any applicable modifiers for your situation
 
-Nav Computer/Astromech Droid (checked by default) - If unchecked upgrades difficulty by two.
-Emergency "Quick" Calculation - Reduces the calculation time by 3 rounds but upgrades the difficulty by one.
-Ship is Lightly Damaged - Increases setback dice by one.
-Ship is Heavily Damaged - Increases setback dice by two.
-Hyperdrive Malfunctioning or Damaged - Upgrades difficulty by one.
-Take Additional Time to Calculate - Increases the calculation time by 5 rounds but lowers the difficulty by one. 
-Take non-Optimal Route - Upgrades difficulty by one.  This also will plot a path without hyperspace lanes, which will make the trip take longer.
+* Nav Computer/Astromech Droid (checked by default) - If unchecked upgrades difficulty by two.
+* Emergency "Quick" Calculation - Reduces the calculation time by 3 rounds but upgrades the difficulty by one.
+* Ship is Lightly Damaged - Increases setback dice by one.
+* Ship is Heavily Damaged - Increases setback dice by two.
+* Hyperdrive Malfunctioning or Damaged - Upgrades difficulty by one.
+* Take Additional Time to Calculate - Increases the calculation time by 5 rounds but lowers the difficulty by one. 
+* Take non-Optimal Route - Upgrades difficulty by one.  This also will plot a path without hyperspace lanes, which will make the trip take longer.
 
-When ready click "Calculate Travel" and you're off.  Results should output to chat as well, for a record.
+5. When ready click "Calculate Travel" and you're off.  Results should output to chat as well, for a record.
 
 ## Current Logic Explanation/Definition:
 
