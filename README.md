@@ -14,7 +14,7 @@ Astrogation Computer was created with the following custom rules for a Star Wars
 * You can DL the latest reease here: https://github.com/grumpk1n/Galaxy-Travel/releases/download/1.0.1/module.json
 
 ## How to Use
-1. Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
+1. Open via Scene Token Controls (Rocket Ship Icon) or via Macro. **Note: Click out os Scene Controls and then back into scene controls to display the Rocket ship (Known Issue)**
 2. You can also share the jump calculation with others via "Share" button in header.
 3. Enter your Start/Destination Planet (type or dropdown search)
 4. Enter your Ship Hyperdrive Rating
