@@ -11,7 +11,7 @@ Astrogation Computer was created with the following custom rules for a Star Wars
 ![image](https://github.com/user-attachments/assets/29fbdb3d-f171-46ac-87e9-cec97218d512)
 
 # Download
-* You can DL the latest reease here: https://github.com/grumpk1n/Galaxy-Travel/releases/download/1.0.1/module.json
+* You can DL the latest reease here: [https://github.com/grumpk1n/Galaxy-Travel/releases/download/1.0.2/module.json]
 
 ## How to Use
 1. Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
