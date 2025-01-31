@@ -17,7 +17,7 @@ Astrogation Computer was created with the following custom rules for a Star Wars
 1. Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
 Note: Click out o Scene Controls and then back into scene controls to display the Rocket ship (Known Issue)
 2. You can also share the jump calculation with others via "Share" button in header.
-3.. Enter your Start/Destination Planet (type or dropdown search)
+3. Enter your Start/Destination Planet (type or dropdown search)
 4. Enter your Ship Hyperdrive Rating
 
 ### Modifiers:
