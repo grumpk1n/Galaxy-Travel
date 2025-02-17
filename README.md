@@ -11,29 +11,21 @@ Astrogation Computer was created with the following custom rules for a Star Wars
 ![image](https://github.com/user-attachments/assets/29fbdb3d-f171-46ac-87e9-cec97218d512)
 
 # Download
-* You can DL the latest reease here: https://github.com/grumpk1n/Galaxy-Travel/releases/download/1.0.2/module.json
+* You can DL the latest reease here: https://github.com/grumpk1n/Galaxy-Travel/releases/download/1.0.3/module.json
 
 ## How to Use
-1. Open via Scene Token Controls (Rocket Ship Icon) or via Macro.
+1. Select which version of ruleset you want to use from Game Configuration Settings (Modified is default)
+2.  Open via Scene Token Controls (Rocket Ship Icon)
 Note: Click out o Scene Controls and then back into scene controls to display the Rocket ship (Known Issue)
-2. You can also share the jump calculation with others via "Share" button in header.
-3. Enter your Start/Destination Planet (type or dropdown search)
-4. Enter your Ship Hyperdrive Rating
+3. You can also share the jump calculation with others via "Share" button in header.
+4. Enter your Start/Destination Planet (type or dropdown search)
+5. Enter your Ship Hyperdrive Rating
+6. Select your Silhouette (RAW only)
+7. Select your modifiers (Settings Dependent)
+8. When ready click "Calculate Travel" and you're off.  Results should output to chat as well, for a record.
 
-### Modifiers:
-Select any applicable modifiers for your situation
-
-* Nav Computer/Astromech Droid (checked by default) - If unchecked upgrades difficulty by two.
-* Emergency "Quick" Calculation - Reduces the calculation time by 3 rounds but upgrades the difficulty by one.
-* Ship is Lightly Damaged - Increases setback dice by one.
-* Ship is Heavily Damaged - Increases setback dice by two.
-* Hyperdrive Malfunctioning or Damaged - Upgrades difficulty by one.
-* Take Additional Time to Calculate - Increases the calculation time by 5 rounds but lowers the difficulty by one. 
-* Take non-Optimal Route - Upgrades difficulty by one.  This also will plot a path without hyperspace lanes, which will make the trip take longer.
-
-5. When ready click "Calculate Travel" and you're off.  Results should output to chat as well, for a record.
-
-## Current Logic Explanation/Definition:
+<details>
+  <summary>Current Logic Explanation/Definition (Modified - Module Default):</summary>
 
 ### Difficulty by Destination:
 * Difficulty for astrogation is defined as:
@@ -88,3 +80,34 @@ Select any applicable modifiers for your situation
 ### Viewing Options:
 * Make the window viewable by all players. App Window Share Button
 * Output results to chat
+
+</details>
+
+<details>
+  <summary>Current Logic Explanation/Definition (RAW - Rules as Written):</summary>
+
+### Base Difficulty for astrogation is defined by Computing Method (see Below):
+
+### Computing Method (Dropdown - Pick One):
+* Player Skill Only (No Nav Computer or Astromech Droid) = 4 dd
+* Navigation Computer = 1 dd
+* Astromech Droid = 0 dd
+
+### Modifiers (Selected):
+* Damaged Navigation Computer = +3 dd
+* Astromech Droid (w/destination not pre-programmed) = +3 dd
+* Emergency "Quick" Calculation = +1 dd
+* Ship is Lightly Damaged = +1 dd
+* Ship is Heavily Damaged = +2 dd
+* Outdated/Corrupt/Counterfit Nav Data = +1dd
+
+### Traveling Time: 
+* In same Grid = Calculate random 20-80% parsec size if travelling in the same grid
+* In Same Sector (Separate Grid) = random 10 - 24 hours
+* In Same Region (Separate Grid) = Random 10 - 72 hours
+* Between Regions = 72 - 168 hours
+* Across the Galaxy (10+ Grids) = 168 - 504 hours
+
+### Time to Calculate the Jump
+* Ship Sihoutte Size x2 (Field to Enter Ship Silhoutte Size)
+  </details>
